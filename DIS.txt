@@ -1,0 +1,6 @@
+npm install -g json-server
+json-server --watch db.json
+
+
+JSON Server running on
+http://localhost:3000/
